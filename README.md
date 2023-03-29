@@ -1,6 +1,14 @@
 ![infomaniak's logo](https://www.infomaniak.com/img/common/logo_infomaniak.jpg) newsletter-api-client
 =======================================================
 
+FORK INFO
+------------
+The only purpose of this fork is to update the [original] composer dependencies.
+Changes :
+- "php": ">=8.0",
+- "guzzlehttp/guzzle": "^7.0"
+
+
 Introduction
 ------------
 
